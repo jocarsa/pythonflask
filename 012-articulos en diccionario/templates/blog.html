@@ -1,0 +1,25 @@
+<!doctype html>
+    <html>
+        <head>
+            <link rel="stylesheet" href="{{ url_for('static', filename='css/estilo.css') }}">
+        </head>
+        <body>
+        <header>
+            <h1>{{titulo}}</h1>
+            <a href="/">Inicio</a>
+            <a href="/blog">Blog</a>
+            <a href="/sobremi">Sobre mi</a>
+            <a href="/contacto">Contacto</a>
+        </header>
+        <main>
+            <h2>Blog</h2>
+            {% for articulo in articulos %}
+                <article>
+                    <h4>{{ articulo['titulo'] }}</h4>
+                    <time>{{ articulo['fecha'] }}</time>
+                    <p>{{ articulo['contenido'] }}</p>
+                </article>
+            {% endfor %}
+        </main>
+    </body>
+    </html>

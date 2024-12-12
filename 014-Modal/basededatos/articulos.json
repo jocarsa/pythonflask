@@ -1,0 +1,27 @@
+[
+    {
+        "titulo":"este es el primer articulo",
+        "fecha":"2024-12-12",
+        "contenido":"este es el texto del articulo"
+     },
+    {
+        "titulo":"este es el segundo articulo",
+        "fecha":"2024-12-13",
+        "contenido":"este es el texto del articulo"
+     },
+     {
+        "titulo":"este es el tercer articulo",
+        "fecha":"2024-12-14",
+        "contenido":"este es el texto del articulo"
+     },
+     {
+        "titulo":"este es el cuarto articulo",
+        "fecha":"2024-12-15",
+        "contenido":"este es el texto del articulo"
+     },
+     {
+        "titulo":"este es el quinto articulo",
+        "fecha":"2024-12-16",
+        "contenido":"este es el texto del articulo"
+     }
+]
