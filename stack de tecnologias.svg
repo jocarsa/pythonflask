@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.104894"
-     inkscape:cx="542.13344"
-     inkscape:cy="405.46875"
+     inkscape:zoom="1.5625561"
+     inkscape:cx="529.90097"
+     inkscape:cy="405.10545"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -38,5 +38,101 @@
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect2460"
+       width="66.571236"
+       height="26.341139"
+       x="94.588631"
+       y="48.470238"
+       ry="2.9080496" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.92724px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67127;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="97.217369"
+       y="56.527557"
+       id="text2464"><tspan
+         sodipodi:role="line"
+         id="tspan2462"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67127"
+         x="97.217369"
+         y="56.527557">css</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round;stroke:#000000;stroke-opacity:1"
+       id="rect2244"
+       width="66.571236"
+       height="26.341139"
+       x="94.588631"
+       y="64.894981"
+       ry="2.9080496" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.92724px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67127;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="97.217369"
+       y="72.952301"
+       id="text2300"><tspan
+         sodipodi:role="line"
+         id="tspan2298"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67127"
+         x="97.217369"
+         y="72.952301">html</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect2568"
+       width="66.571236"
+       height="26.341139"
+       x="94.588631"
+       y="80.473091"
+       ry="2.9080496" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.92724px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67127;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="97.217369"
+       y="88.530411"
+       id="text2572"><tspan
+         sodipodi:role="line"
+         id="tspan2570"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67127"
+         x="97.217369"
+         y="88.530411">js</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect2574"
+       width="66.571236"
+       height="26.341139"
+       x="94.588631"
+       y="116.03181"
+       ry="2.9080496" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.92724px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67127;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="97.217369"
+       y="124.08913"
+       id="text2578"><tspan
+         sodipodi:role="line"
+         id="tspan2576"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67127"
+         x="97.217369"
+         y="124.08913">python</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect2580"
+       width="66.571236"
+       height="26.341139"
+       x="94.588631"
+       y="133.30319"
+       ry="2.9080496" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.92724px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67127;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="97.217369"
+       y="141.3605"
+       id="text2584"><tspan
+         sodipodi:role="line"
+         id="tspan2582"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67127"
+         x="97.217369"
+         y="141.3605">datos</tspan></text>
+  </g>
 </svg>
